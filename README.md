@@ -1,7 +1,8 @@
 # Credit_card_Financial_Dashboard
 Project Objective- To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
 
-Steps -	Prepare csv file
+Steps -	
+- Prepare csv file
 - Create tables in SQL
 - Import csv file into SQL.
 
